@@ -1,0 +1,2 @@
+# cat=mode; type=int; label=LLL:EXT:headless/Resources/Private/Language/locallang_be.xlf:mode
+mode = 1
